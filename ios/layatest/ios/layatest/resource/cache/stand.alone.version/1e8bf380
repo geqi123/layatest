@@ -1,0 +1,155 @@
+{
+    "frames": {
+        "fail_da.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "fail_guang.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 131
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "fail_tou.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 126,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "fail_xiao.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 126,
+                "y": 131
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "guang.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 252,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "tou.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 378,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "xiao.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 252,
+                "y": 131
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Artwork.png",
+        "prefix": "Animation/Artwork/"
+    }
+}

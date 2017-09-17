@@ -1,0 +1,155 @@
+{
+    "frames": {
+        "dipai.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 120,
+                "x": 437,
+                "y": 258
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 61,
+                "w": 120
+            },
+            "spriteSourceSize": {
+                "h": 61,
+                "w": 120,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "koudidefen.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 436,
+                "x": 0,
+                "y": 258
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 64,
+                "w": 436
+            },
+            "spriteSourceSize": {
+                "h": 64,
+                "w": 436,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "mianban-zhe-zhao.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 20,
+                "x": 437,
+                "y": 320
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 20,
+                "w": 20
+            },
+            "spriteSourceSize": {
+                "h": 20,
+                "w": 20,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "result_minus.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 256,
+                "x": 251,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 128,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "h": 128,
+                "w": 256,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "result_plus.png": {
+            "frame": {
+                "h": 128,
+                "idx": 0,
+                "w": 256,
+                "x": 251,
+                "y": 129
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 128,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "h": 128,
+                "w": 256,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "updgrade_ji.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 47,
+                "x": 558,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 47,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "h": 47,
+                "w": 47,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "updgrade_reslut_bottom_score_green_0.png": {
+            "frame": {
+                "h": 250,
+                "idx": 0,
+                "w": 250,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 250,
+                "w": 250
+            },
+            "spriteSourceSize": {
+                "h": 250,
+                "w": 250,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Result.png",
+        "prefix": "Result/"
+    }
+}

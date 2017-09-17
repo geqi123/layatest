@@ -1,0 +1,50 @@
+{
+    "frames": {
+        "bai.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "shi.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 125,
+                "x": 126,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 125
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 125,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Defeat.png",
+        "prefix": "Animation/Defeat/"
+    }
+}

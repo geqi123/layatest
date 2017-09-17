@@ -1,0 +1,50 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 290,
+                "idx": 0,
+                "w": 371,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 290,
+                "w": 371
+            },
+            "spriteSourceSize": {
+                "h": 290,
+                "w": 371,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 290,
+                "idx": 0,
+                "w": 371,
+                "x": 372,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 290,
+                "w": 371
+            },
+            "spriteSourceSize": {
+                "h": 290,
+                "w": 371,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Po.png",
+        "prefix": "Animation/Break/Po/"
+    }
+}

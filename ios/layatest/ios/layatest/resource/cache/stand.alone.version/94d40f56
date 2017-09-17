@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 455,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "02.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 0,
+                "y": 131
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "03.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 455,
+                "y": 131
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "04.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 0,
+                "y": 262
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "05.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 454,
+                "x": 455,
+                "y": 262
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 130,
+                "w": 454
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 454,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Grey.png",
+        "prefix": "Animation/Ribbon/Grey/"
+    }
+}

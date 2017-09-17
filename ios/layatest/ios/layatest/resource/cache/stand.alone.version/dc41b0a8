@@ -1,0 +1,50 @@
+{
+    "frames": {
+        "CountdownBg.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 251,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "clock_number_0.png": {
+            "frame": {
+                "h": 250,
+                "idx": 0,
+                "w": 250,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 250,
+                "w": 250
+            },
+            "spriteSourceSize": {
+                "h": 250,
+                "w": 250,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Countdown.png",
+        "prefix": "Countdown/"
+    }
+}

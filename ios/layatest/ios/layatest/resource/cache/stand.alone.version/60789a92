@@ -1,0 +1,197 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 0,
+                "y": 43
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "02.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 0,
+                "y": 86
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "03.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 41,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "04.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 82,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "05.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 41,
+                "y": 43
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "06.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 41,
+                "y": 86
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "07.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 82,
+                "y": 43
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "08.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 82,
+                "y": 86
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Banker.png",
+        "prefix": "Animation/Banker/"
+    }
+}

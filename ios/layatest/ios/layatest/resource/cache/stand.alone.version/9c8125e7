@@ -1,0 +1,113 @@
+{
+    "frames": {
+        "btn.png": {
+            "frame": {
+                "h": 40,
+                "idx": 0,
+                "w": 90,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 40,
+                "w": 90
+            },
+            "spriteSourceSize": {
+                "h": 40,
+                "w": 90,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "hei.png": {
+            "frame": {
+                "h": 50,
+                "idx": 0,
+                "w": 50,
+                "x": 101,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 50,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "h": 50,
+                "w": 50,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_score$bar.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 100,
+                "x": 0,
+                "y": 72
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 20,
+                "w": 100
+            },
+            "spriteSourceSize": {
+                "h": 20,
+                "w": 100,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "progress_score.png": {
+            "frame": {
+                "h": 30,
+                "idx": 0,
+                "w": 100,
+                "x": 0,
+                "y": 41
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 30,
+                "w": 100
+            },
+            "spriteSourceSize": {
+                "h": 30,
+                "w": 100,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "scoreline.png": {
+            "frame": {
+                "h": 40,
+                "idx": 0,
+                "w": 2,
+                "x": 91,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 40,
+                "w": 2
+            },
+            "spriteSourceSize": {
+                "h": 40,
+                "w": 2,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "game.png",
+        "prefix": "game/"
+    }
+}

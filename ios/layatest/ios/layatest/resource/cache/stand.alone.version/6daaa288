@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "Banker.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 31,
+                "x": 483,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 31,
+                "w": 31
+            },
+            "spriteSourceSize": {
+                "h": 31,
+                "w": 31,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "H00005_160.jpg": {
+            "frame": {
+                "h": 160,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 160,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "h": 160,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "H00012_160.jpg": {
+            "frame": {
+                "h": 160,
+                "idx": 0,
+                "w": 160,
+                "x": 0,
+                "y": 161
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 160,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "h": 160,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "H00013_160.jpg": {
+            "frame": {
+                "h": 160,
+                "idx": 0,
+                "w": 160,
+                "x": 161,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 160,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "h": 160,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "H00033_160.jpg": {
+            "frame": {
+                "h": 160,
+                "idx": 0,
+                "w": 160,
+                "x": 161,
+                "y": 161
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 160,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "h": 160,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "H00088_160.jpg": {
+            "frame": {
+                "h": 160,
+                "idx": 0,
+                "w": 160,
+                "x": 322,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 160,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "h": 160,
+                "w": 160,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "HeadImage.png",
+        "prefix": "HeadImage/"
+    }
+}

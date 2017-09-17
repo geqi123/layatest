@@ -1,0 +1,113 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 316,
+                "idx": 0,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 316,
+                "w": 432
+            },
+            "spriteSourceSize": {
+                "h": 316,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 316,
+                "idx": 0,
+                "w": 432,
+                "x": 0,
+                "y": 317
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 316,
+                "w": 432
+            },
+            "spriteSourceSize": {
+                "h": 316,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "02.png": {
+            "frame": {
+                "h": 316,
+                "idx": 0,
+                "w": 432,
+                "x": 433,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 316,
+                "w": 432
+            },
+            "spriteSourceSize": {
+                "h": 316,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "03.png": {
+            "frame": {
+                "h": 316,
+                "idx": 0,
+                "w": 432,
+                "x": 866,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 316,
+                "w": 432
+            },
+            "spriteSourceSize": {
+                "h": 316,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "04.png": {
+            "frame": {
+                "h": 316,
+                "idx": 0,
+                "w": 432,
+                "x": 433,
+                "y": 317
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 316,
+                "w": 432
+            },
+            "spriteSourceSize": {
+                "h": 316,
+                "w": 432,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Tractor.png",
+        "prefix": "Animation/Tractor/"
+    }
+}

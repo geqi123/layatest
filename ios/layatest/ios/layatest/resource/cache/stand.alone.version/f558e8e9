@@ -1,0 +1,218 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 475,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "02.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 950,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "03.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 0,
+                "y": 361
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "04.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 0,
+                "y": 722
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "05.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 0,
+                "y": 1083
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "06.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 475,
+                "y": 361
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "07.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 950,
+                "y": 361
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "08.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 475,
+                "y": 722
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "09.png": {
+            "frame": {
+                "h": 360,
+                "idx": 0,
+                "w": 474,
+                "x": 475,
+                "y": 1083
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 360,
+                "w": 474
+            },
+            "spriteSourceSize": {
+                "h": 360,
+                "w": 474,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Explode.png",
+        "prefix": "Animation/Break/Explode/"
+    }
+}

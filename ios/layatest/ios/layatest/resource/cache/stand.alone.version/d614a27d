@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "00.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "01.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 0,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "02.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "03.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 93,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "04.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "05.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 92,
+                "x": 186,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 92,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Warning.png",
+        "prefix": "Animation/Warning/"
+    }
+}
