@@ -1,0 +1,71 @@
+{
+    "frames": {
+        "AwaitSetBottom.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 380,
+                "x": 0,
+                "y": 357
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 65,
+                "w": 380
+            },
+            "spriteSourceSize": {
+                "h": 65,
+                "w": 380,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "CurrentGroudPoint.png": {
+            "frame": {
+                "h": 65,
+                "idx": 0,
+                "w": 380,
+                "x": 0,
+                "y": 423
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 65,
+                "w": 380
+            },
+            "spriteSourceSize": {
+                "h": 65,
+                "w": 380,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "updgrade_rob_banker_number_0.png": {
+            "frame": {
+                "h": 356,
+                "idx": 0,
+                "w": 500,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 356,
+                "w": 500
+            },
+            "spriteSourceSize": {
+                "h": 356,
+                "w": 500,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "Tip.png",
+        "prefix": "Tip/"
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "frames": {
+        "CurrentScoreBg.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 95,
+                "x": 0,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 100,
+                "w": 95
+            },
+            "spriteSourceSize": {
+                "h": 100,
+                "w": 95,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "LeftUpBg.png": {
+            "frame": {
+                "h": 94,
+                "idx": 0,
+                "w": 353,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 94,
+                "w": 353
+            },
+            "spriteSourceSize": {
+                "h": 94,
+                "w": 353,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_big_king.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 96,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_club.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 96,
+                "y": 138
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_diamond.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 96,
+                "y": 181
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_heart.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 137,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_small_king.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 137,
+                "y": 138
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "dark_spade.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 137,
+                "y": 181
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_big_king.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 178,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_club.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 178,
+                "y": 138
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_diamond.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 178,
+                "y": 181
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_heart.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 219,
+                "y": 95
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_small_king.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 219,
+                "y": 138
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "light_spade.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 40,
+                "x": 219,
+                "y": 181
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 42,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "h": 42,
+                "w": 40,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "GameInfo.png",
+        "prefix": "GameInfo/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "frames": {
+        "RestCardsCount_0.png": {
+            "frame": {
+                "h": 27,
+                "idx": 0,
+                "w": 190,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 27,
+                "w": 190
+            },
+            "spriteSourceSize": {
+                "h": 27,
+                "w": 190,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "RestCardsCount.png",
+        "prefix": "RestCardsCount/"
+    }
+}

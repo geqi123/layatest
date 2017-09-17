@@ -1,0 +1,29 @@
+{
+    "frames": {
+        "AvatarFrame.png": {
+            "frame": {
+                "h": 91,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 91,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 91,
+                "w": 96,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "PlayerInfo.png",
+        "prefix": "PlayerInfo/"
+    }
+}
