@@ -20,12 +20,7 @@ NetServer.prototype.init = function()
     if (this.serverIndex == 0)
     {
         this.socket.connect("192.168.1.155", 9000);
-        this.serverIndex = 1;
-    }
-    else
-    {
-        this.socket.connectByUrl("ws://www.geqi99.com:9000");
-        this.serverIndex = 0;
+        // this.serverIndex = 1;
     }
 
     this.socket.on(Laya.Event.OPEN, this, this.onSocketOpen);
