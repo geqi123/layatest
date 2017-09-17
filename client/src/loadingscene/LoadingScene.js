@@ -159,7 +159,11 @@ LoadingScene.prototype.loadAnimas = function()
 }
 
 LoadingScene.prototype.loadFinish = function()
-{
+{  
+    var netServer = new NetServer(); 
+    netServer.init();
+    Laya.netServer = netServer;  
+    
     Laya.stage.scene.destroy();
     var mainscene = new MainScene();
     Laya.stage.scene = mainscene;
